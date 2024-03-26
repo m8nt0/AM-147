@@ -1,2 +1,2 @@
 # AM-147
-Numerical Analysis Class School Project
+Numerical Analysis Class School Projects
